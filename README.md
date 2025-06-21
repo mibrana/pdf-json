@@ -95,7 +95,7 @@ Contributions are always welcome! Feel free to fork this repository and submit a
 
 ## 📧 Contact
 
-If you have any questions or feedback, reach out to me at: [umershahzeb@gmail.com](mailto:inambari6789@gmail.com)
+If you have any questions or feedback, reach out to me at: [inambari6789@gmail.com](mailto:inambari6789@gmail.com)
 
 ---
 
